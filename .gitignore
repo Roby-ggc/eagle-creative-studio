@@ -1,0 +1,8 @@
+﻿.git/
+*.bak
+*.og-backup
+README.md
+
+formations/backup-*/
+
+formations/backup-*/
